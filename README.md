@@ -4,7 +4,7 @@ This Python script automates the process of fetching, storing, and comparing web
 
 
 **Overall purpose of script:**
-This is the main function of the script. It performs the following steps:
+This scripts serves the following functionalities:
 
 1.Fetches the content of the base URL and its internal links
 
