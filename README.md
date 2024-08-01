@@ -5,6 +5,7 @@ This Python script automates the process of fetching, storing, and comparing web
 
 **Overall purpose of script:**
 This is the main function of the script. It performs the following steps:
+
 1.Fetches the content of the base URL and its internal links
 
 2.Creates folders for the current week and previous week
